@@ -1,0 +1,16 @@
+D:\VJVS\console_addtwouserinputnums\bin\Debug\net5.0\console_addtwouserinputnums.exe
+D:\VJVS\console_addtwouserinputnums\bin\Debug\net5.0\console_addtwouserinputnums.deps.json
+D:\VJVS\console_addtwouserinputnums\bin\Debug\net5.0\console_addtwouserinputnums.runtimeconfig.json
+D:\VJVS\console_addtwouserinputnums\bin\Debug\net5.0\console_addtwouserinputnums.runtimeconfig.dev.json
+D:\VJVS\console_addtwouserinputnums\bin\Debug\net5.0\console_addtwouserinputnums.dll
+D:\VJVS\console_addtwouserinputnums\bin\Debug\net5.0\console_addtwouserinputnums.pdb
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\console_addtwouserinputnums.csproj.AssemblyReference.cache
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\console_addtwouserinputnums.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\console_addtwouserinputnums.AssemblyInfoInputs.cache
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\console_addtwouserinputnums.AssemblyInfo.cs
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\console_addtwouserinputnums.csproj.CoreCompileInputs.cache
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\console_addtwouserinputnums.dll
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\refint\console_addtwouserinputnums.dll
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\console_addtwouserinputnums.pdb
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\console_addtwouserinputnums.genruntimeconfig.cache
+D:\VJVS\console_addtwouserinputnums\obj\Debug\net5.0\ref\console_addtwouserinputnums.dll

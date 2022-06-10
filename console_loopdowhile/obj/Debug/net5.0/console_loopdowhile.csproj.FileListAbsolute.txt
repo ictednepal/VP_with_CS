@@ -1,0 +1,16 @@
+D:\VJVS\console_loopdowhile\bin\Debug\net5.0\console_loopdowhile.exe
+D:\VJVS\console_loopdowhile\bin\Debug\net5.0\console_loopdowhile.deps.json
+D:\VJVS\console_loopdowhile\bin\Debug\net5.0\console_loopdowhile.runtimeconfig.json
+D:\VJVS\console_loopdowhile\bin\Debug\net5.0\console_loopdowhile.runtimeconfig.dev.json
+D:\VJVS\console_loopdowhile\bin\Debug\net5.0\console_loopdowhile.dll
+D:\VJVS\console_loopdowhile\bin\Debug\net5.0\console_loopdowhile.pdb
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\console_loopdowhile.csproj.AssemblyReference.cache
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\console_loopdowhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\console_loopdowhile.AssemblyInfoInputs.cache
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\console_loopdowhile.AssemblyInfo.cs
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\console_loopdowhile.csproj.CoreCompileInputs.cache
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\console_loopdowhile.dll
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\refint\console_loopdowhile.dll
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\console_loopdowhile.pdb
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\console_loopdowhile.genruntimeconfig.cache
+D:\VJVS\console_loopdowhile\obj\Debug\net5.0\ref\console_loopdowhile.dll

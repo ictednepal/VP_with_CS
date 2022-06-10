@@ -1,0 +1,16 @@
+D:\VJVS\console_ifelseifladder\bin\Debug\net5.0\console_ifelseifladder.exe
+D:\VJVS\console_ifelseifladder\bin\Debug\net5.0\console_ifelseifladder.deps.json
+D:\VJVS\console_ifelseifladder\bin\Debug\net5.0\console_ifelseifladder.runtimeconfig.json
+D:\VJVS\console_ifelseifladder\bin\Debug\net5.0\console_ifelseifladder.runtimeconfig.dev.json
+D:\VJVS\console_ifelseifladder\bin\Debug\net5.0\console_ifelseifladder.dll
+D:\VJVS\console_ifelseifladder\bin\Debug\net5.0\console_ifelseifladder.pdb
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\console_ifelseifladder.csproj.AssemblyReference.cache
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\console_ifelseifladder.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\console_ifelseifladder.AssemblyInfoInputs.cache
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\console_ifelseifladder.AssemblyInfo.cs
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\console_ifelseifladder.csproj.CoreCompileInputs.cache
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\console_ifelseifladder.dll
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\refint\console_ifelseifladder.dll
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\console_ifelseifladder.pdb
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\console_ifelseifladder.genruntimeconfig.cache
+D:\VJVS\console_ifelseifladder\obj\Debug\net5.0\ref\console_ifelseifladder.dll

@@ -1,0 +1,16 @@
+D:\VJVS\console_if\bin\Debug\net5.0\console_if.exe
+D:\VJVS\console_if\bin\Debug\net5.0\console_if.deps.json
+D:\VJVS\console_if\bin\Debug\net5.0\console_if.runtimeconfig.json
+D:\VJVS\console_if\bin\Debug\net5.0\console_if.runtimeconfig.dev.json
+D:\VJVS\console_if\bin\Debug\net5.0\console_if.dll
+D:\VJVS\console_if\bin\Debug\net5.0\console_if.pdb
+D:\VJVS\console_if\obj\Debug\net5.0\console_if.csproj.AssemblyReference.cache
+D:\VJVS\console_if\obj\Debug\net5.0\console_if.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_if\obj\Debug\net5.0\console_if.AssemblyInfoInputs.cache
+D:\VJVS\console_if\obj\Debug\net5.0\console_if.AssemblyInfo.cs
+D:\VJVS\console_if\obj\Debug\net5.0\console_if.csproj.CoreCompileInputs.cache
+D:\VJVS\console_if\obj\Debug\net5.0\console_if.dll
+D:\VJVS\console_if\obj\Debug\net5.0\refint\console_if.dll
+D:\VJVS\console_if\obj\Debug\net5.0\console_if.pdb
+D:\VJVS\console_if\obj\Debug\net5.0\console_if.genruntimeconfig.cache
+D:\VJVS\console_if\obj\Debug\net5.0\ref\console_if.dll

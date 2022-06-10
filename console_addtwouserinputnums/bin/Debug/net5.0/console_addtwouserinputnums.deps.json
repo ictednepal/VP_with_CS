@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "console_addtwouserinputnums/1.0.0": {
+        "runtime": {
+          "console_addtwouserinputnums.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "console_addtwouserinputnums/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

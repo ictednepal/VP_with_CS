@@ -1,0 +1,16 @@
+D:\VJVS\console_valuetypesbytesignedinteger\bin\Debug\net5.0\console_valuetypesbytesignedinteger.exe
+D:\VJVS\console_valuetypesbytesignedinteger\bin\Debug\net5.0\console_valuetypesbytesignedinteger.deps.json
+D:\VJVS\console_valuetypesbytesignedinteger\bin\Debug\net5.0\console_valuetypesbytesignedinteger.runtimeconfig.json
+D:\VJVS\console_valuetypesbytesignedinteger\bin\Debug\net5.0\console_valuetypesbytesignedinteger.runtimeconfig.dev.json
+D:\VJVS\console_valuetypesbytesignedinteger\bin\Debug\net5.0\console_valuetypesbytesignedinteger.dll
+D:\VJVS\console_valuetypesbytesignedinteger\bin\Debug\net5.0\console_valuetypesbytesignedinteger.pdb
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\console_valuetypesbytesignedinteger.csproj.AssemblyReference.cache
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\console_valuetypesbytesignedinteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\console_valuetypesbytesignedinteger.AssemblyInfoInputs.cache
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\console_valuetypesbytesignedinteger.AssemblyInfo.cs
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\console_valuetypesbytesignedinteger.csproj.CoreCompileInputs.cache
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\console_valuetypesbytesignedinteger.dll
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\refint\console_valuetypesbytesignedinteger.dll
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\console_valuetypesbytesignedinteger.pdb
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\console_valuetypesbytesignedinteger.genruntimeconfig.cache
+D:\VJVS\console_valuetypesbytesignedinteger\obj\Debug\net5.0\ref\console_valuetypesbytesignedinteger.dll

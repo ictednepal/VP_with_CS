@@ -1,0 +1,16 @@
+D:\VJVS\console_valuetypeboolean\bin\Debug\net5.0\console_valuetypeboolean.exe
+D:\VJVS\console_valuetypeboolean\bin\Debug\net5.0\console_valuetypeboolean.deps.json
+D:\VJVS\console_valuetypeboolean\bin\Debug\net5.0\console_valuetypeboolean.runtimeconfig.json
+D:\VJVS\console_valuetypeboolean\bin\Debug\net5.0\console_valuetypeboolean.runtimeconfig.dev.json
+D:\VJVS\console_valuetypeboolean\bin\Debug\net5.0\console_valuetypeboolean.dll
+D:\VJVS\console_valuetypeboolean\bin\Debug\net5.0\console_valuetypeboolean.pdb
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\console_valuetypeboolean.csproj.AssemblyReference.cache
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\console_valuetypeboolean.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\console_valuetypeboolean.AssemblyInfoInputs.cache
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\console_valuetypeboolean.AssemblyInfo.cs
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\console_valuetypeboolean.csproj.CoreCompileInputs.cache
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\console_valuetypeboolean.dll
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\refint\console_valuetypeboolean.dll
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\console_valuetypeboolean.pdb
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\console_valuetypeboolean.genruntimeconfig.cache
+D:\VJVS\console_valuetypeboolean\obj\Debug\net5.0\ref\console_valuetypeboolean.dll

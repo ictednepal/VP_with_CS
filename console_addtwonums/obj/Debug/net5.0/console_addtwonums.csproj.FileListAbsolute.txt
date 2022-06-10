@@ -1,0 +1,16 @@
+D:\VJVS\console_addtwonums\bin\Debug\net5.0\console_addtwonums.exe
+D:\VJVS\console_addtwonums\bin\Debug\net5.0\console_addtwonums.deps.json
+D:\VJVS\console_addtwonums\bin\Debug\net5.0\console_addtwonums.runtimeconfig.json
+D:\VJVS\console_addtwonums\bin\Debug\net5.0\console_addtwonums.runtimeconfig.dev.json
+D:\VJVS\console_addtwonums\bin\Debug\net5.0\console_addtwonums.dll
+D:\VJVS\console_addtwonums\bin\Debug\net5.0\console_addtwonums.pdb
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\console_addtwonums.csproj.AssemblyReference.cache
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\console_addtwonums.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\console_addtwonums.AssemblyInfoInputs.cache
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\console_addtwonums.AssemblyInfo.cs
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\console_addtwonums.csproj.CoreCompileInputs.cache
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\console_addtwonums.dll
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\refint\console_addtwonums.dll
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\console_addtwonums.pdb
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\console_addtwonums.genruntimeconfig.cache
+D:\VJVS\console_addtwonums\obj\Debug\net5.0\ref\console_addtwonums.dll

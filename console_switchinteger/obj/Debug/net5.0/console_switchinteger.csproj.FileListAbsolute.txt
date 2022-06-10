@@ -1,0 +1,16 @@
+D:\VJVS\console_switchinteger\bin\Debug\net5.0\console_switchinteger.exe
+D:\VJVS\console_switchinteger\bin\Debug\net5.0\console_switchinteger.deps.json
+D:\VJVS\console_switchinteger\bin\Debug\net5.0\console_switchinteger.runtimeconfig.json
+D:\VJVS\console_switchinteger\bin\Debug\net5.0\console_switchinteger.runtimeconfig.dev.json
+D:\VJVS\console_switchinteger\bin\Debug\net5.0\console_switchinteger.dll
+D:\VJVS\console_switchinteger\bin\Debug\net5.0\console_switchinteger.pdb
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\console_switchinteger.csproj.AssemblyReference.cache
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\console_switchinteger.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\console_switchinteger.AssemblyInfoInputs.cache
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\console_switchinteger.AssemblyInfo.cs
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\console_switchinteger.csproj.CoreCompileInputs.cache
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\console_switchinteger.dll
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\refint\console_switchinteger.dll
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\console_switchinteger.pdb
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\console_switchinteger.genruntimeconfig.cache
+D:\VJVS\console_switchinteger\obj\Debug\net5.0\ref\console_switchinteger.dll

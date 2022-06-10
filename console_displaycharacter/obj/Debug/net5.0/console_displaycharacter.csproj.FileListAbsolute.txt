@@ -1,0 +1,16 @@
+D:\VJVS\console_displaycharacter\bin\Debug\net5.0\console_displaycharacter.exe
+D:\VJVS\console_displaycharacter\bin\Debug\net5.0\console_displaycharacter.deps.json
+D:\VJVS\console_displaycharacter\bin\Debug\net5.0\console_displaycharacter.runtimeconfig.json
+D:\VJVS\console_displaycharacter\bin\Debug\net5.0\console_displaycharacter.runtimeconfig.dev.json
+D:\VJVS\console_displaycharacter\bin\Debug\net5.0\console_displaycharacter.dll
+D:\VJVS\console_displaycharacter\bin\Debug\net5.0\console_displaycharacter.pdb
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\console_displaycharacter.csproj.AssemblyReference.cache
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\console_displaycharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\console_displaycharacter.AssemblyInfoInputs.cache
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\console_displaycharacter.AssemblyInfo.cs
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\console_displaycharacter.csproj.CoreCompileInputs.cache
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\console_displaycharacter.dll
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\refint\console_displaycharacter.dll
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\console_displaycharacter.pdb
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\console_displaycharacter.genruntimeconfig.cache
+D:\VJVS\console_displaycharacter\obj\Debug\net5.0\ref\console_displaycharacter.dll

@@ -1,0 +1,16 @@
+D:\VJVS\console_loopforeach\bin\Debug\net5.0\console_loopforeach.exe
+D:\VJVS\console_loopforeach\bin\Debug\net5.0\console_loopforeach.deps.json
+D:\VJVS\console_loopforeach\bin\Debug\net5.0\console_loopforeach.runtimeconfig.json
+D:\VJVS\console_loopforeach\bin\Debug\net5.0\console_loopforeach.runtimeconfig.dev.json
+D:\VJVS\console_loopforeach\bin\Debug\net5.0\console_loopforeach.dll
+D:\VJVS\console_loopforeach\bin\Debug\net5.0\console_loopforeach.pdb
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\console_loopforeach.csproj.AssemblyReference.cache
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\console_loopforeach.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\console_loopforeach.AssemblyInfoInputs.cache
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\console_loopforeach.AssemblyInfo.cs
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\console_loopforeach.csproj.CoreCompileInputs.cache
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\console_loopforeach.dll
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\refint\console_loopforeach.dll
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\console_loopforeach.pdb
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\console_loopforeach.genruntimeconfig.cache
+D:\VJVS\console_loopforeach\obj\Debug\net5.0\ref\console_loopforeach.dll

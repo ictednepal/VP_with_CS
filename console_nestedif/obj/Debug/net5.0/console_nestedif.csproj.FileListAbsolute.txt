@@ -1,0 +1,16 @@
+D:\VJVS\console_nestedif\bin\Debug\net5.0\console_nestedif.exe
+D:\VJVS\console_nestedif\bin\Debug\net5.0\console_nestedif.deps.json
+D:\VJVS\console_nestedif\bin\Debug\net5.0\console_nestedif.runtimeconfig.json
+D:\VJVS\console_nestedif\bin\Debug\net5.0\console_nestedif.runtimeconfig.dev.json
+D:\VJVS\console_nestedif\bin\Debug\net5.0\console_nestedif.dll
+D:\VJVS\console_nestedif\bin\Debug\net5.0\console_nestedif.pdb
+D:\VJVS\console_nestedif\obj\Debug\net5.0\console_nestedif.csproj.AssemblyReference.cache
+D:\VJVS\console_nestedif\obj\Debug\net5.0\console_nestedif.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_nestedif\obj\Debug\net5.0\console_nestedif.AssemblyInfoInputs.cache
+D:\VJVS\console_nestedif\obj\Debug\net5.0\console_nestedif.AssemblyInfo.cs
+D:\VJVS\console_nestedif\obj\Debug\net5.0\console_nestedif.csproj.CoreCompileInputs.cache
+D:\VJVS\console_nestedif\obj\Debug\net5.0\console_nestedif.dll
+D:\VJVS\console_nestedif\obj\Debug\net5.0\refint\console_nestedif.dll
+D:\VJVS\console_nestedif\obj\Debug\net5.0\console_nestedif.pdb
+D:\VJVS\console_nestedif\obj\Debug\net5.0\console_nestedif.genruntimeconfig.cache
+D:\VJVS\console_nestedif\obj\Debug\net5.0\ref\console_nestedif.dll
