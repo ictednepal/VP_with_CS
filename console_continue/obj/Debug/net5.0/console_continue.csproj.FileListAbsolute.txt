@@ -1,0 +1,16 @@
+D:\VJVS\console_continue\bin\Debug\net5.0\console_continue.exe
+D:\VJVS\console_continue\bin\Debug\net5.0\console_continue.deps.json
+D:\VJVS\console_continue\bin\Debug\net5.0\console_continue.runtimeconfig.json
+D:\VJVS\console_continue\bin\Debug\net5.0\console_continue.runtimeconfig.dev.json
+D:\VJVS\console_continue\bin\Debug\net5.0\console_continue.dll
+D:\VJVS\console_continue\bin\Debug\net5.0\console_continue.pdb
+D:\VJVS\console_continue\obj\Debug\net5.0\console_continue.csproj.AssemblyReference.cache
+D:\VJVS\console_continue\obj\Debug\net5.0\console_continue.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_continue\obj\Debug\net5.0\console_continue.AssemblyInfoInputs.cache
+D:\VJVS\console_continue\obj\Debug\net5.0\console_continue.AssemblyInfo.cs
+D:\VJVS\console_continue\obj\Debug\net5.0\console_continue.csproj.CoreCompileInputs.cache
+D:\VJVS\console_continue\obj\Debug\net5.0\console_continue.dll
+D:\VJVS\console_continue\obj\Debug\net5.0\refint\console_continue.dll
+D:\VJVS\console_continue\obj\Debug\net5.0\console_continue.pdb
+D:\VJVS\console_continue\obj\Debug\net5.0\console_continue.genruntimeconfig.cache
+D:\VJVS\console_continue\obj\Debug\net5.0\ref\console_continue.dll

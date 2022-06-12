@@ -1,0 +1,16 @@
+D:\VJVS\console_break\bin\Debug\net5.0\console_break.exe
+D:\VJVS\console_break\bin\Debug\net5.0\console_break.deps.json
+D:\VJVS\console_break\bin\Debug\net5.0\console_break.runtimeconfig.json
+D:\VJVS\console_break\bin\Debug\net5.0\console_break.runtimeconfig.dev.json
+D:\VJVS\console_break\bin\Debug\net5.0\console_break.dll
+D:\VJVS\console_break\bin\Debug\net5.0\console_break.pdb
+D:\VJVS\console_break\obj\Debug\net5.0\console_break.csproj.AssemblyReference.cache
+D:\VJVS\console_break\obj\Debug\net5.0\console_break.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_break\obj\Debug\net5.0\console_break.AssemblyInfoInputs.cache
+D:\VJVS\console_break\obj\Debug\net5.0\console_break.AssemblyInfo.cs
+D:\VJVS\console_break\obj\Debug\net5.0\console_break.csproj.CoreCompileInputs.cache
+D:\VJVS\console_break\obj\Debug\net5.0\console_break.dll
+D:\VJVS\console_break\obj\Debug\net5.0\refint\console_break.dll
+D:\VJVS\console_break\obj\Debug\net5.0\console_break.pdb
+D:\VJVS\console_break\obj\Debug\net5.0\console_break.genruntimeconfig.cache
+D:\VJVS\console_break\obj\Debug\net5.0\ref\console_break.dll
