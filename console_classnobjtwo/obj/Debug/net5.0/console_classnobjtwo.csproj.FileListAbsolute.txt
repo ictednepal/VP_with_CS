@@ -1,0 +1,16 @@
+D:\VJVS\console_classnobjtwo\bin\Debug\net5.0\console_classnobjtwo.exe
+D:\VJVS\console_classnobjtwo\bin\Debug\net5.0\console_classnobjtwo.deps.json
+D:\VJVS\console_classnobjtwo\bin\Debug\net5.0\console_classnobjtwo.runtimeconfig.json
+D:\VJVS\console_classnobjtwo\bin\Debug\net5.0\console_classnobjtwo.runtimeconfig.dev.json
+D:\VJVS\console_classnobjtwo\bin\Debug\net5.0\console_classnobjtwo.dll
+D:\VJVS\console_classnobjtwo\bin\Debug\net5.0\console_classnobjtwo.pdb
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\console_classnobjtwo.csproj.AssemblyReference.cache
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\console_classnobjtwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\console_classnobjtwo.AssemblyInfoInputs.cache
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\console_classnobjtwo.AssemblyInfo.cs
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\console_classnobjtwo.csproj.CoreCompileInputs.cache
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\console_classnobjtwo.dll
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\refint\console_classnobjtwo.dll
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\console_classnobjtwo.pdb
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\console_classnobjtwo.genruntimeconfig.cache
+D:\VJVS\console_classnobjtwo\obj\Debug\net5.0\ref\console_classnobjtwo.dll

@@ -1,0 +1,16 @@
+D:\VJVS\console_classnobj\obj\Debug\net5.0\console_classnobj.csproj.AssemblyReference.cache
+D:\VJVS\console_classnobj\obj\Debug\net5.0\console_classnobj.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_classnobj\bin\Debug\net5.0\console_classnobj.exe
+D:\VJVS\console_classnobj\bin\Debug\net5.0\console_classnobj.deps.json
+D:\VJVS\console_classnobj\bin\Debug\net5.0\console_classnobj.runtimeconfig.json
+D:\VJVS\console_classnobj\bin\Debug\net5.0\console_classnobj.runtimeconfig.dev.json
+D:\VJVS\console_classnobj\bin\Debug\net5.0\console_classnobj.dll
+D:\VJVS\console_classnobj\bin\Debug\net5.0\console_classnobj.pdb
+D:\VJVS\console_classnobj\obj\Debug\net5.0\console_classnobj.AssemblyInfoInputs.cache
+D:\VJVS\console_classnobj\obj\Debug\net5.0\console_classnobj.AssemblyInfo.cs
+D:\VJVS\console_classnobj\obj\Debug\net5.0\console_classnobj.csproj.CoreCompileInputs.cache
+D:\VJVS\console_classnobj\obj\Debug\net5.0\console_classnobj.dll
+D:\VJVS\console_classnobj\obj\Debug\net5.0\refint\console_classnobj.dll
+D:\VJVS\console_classnobj\obj\Debug\net5.0\console_classnobj.pdb
+D:\VJVS\console_classnobj\obj\Debug\net5.0\console_classnobj.genruntimeconfig.cache
+D:\VJVS\console_classnobj\obj\Debug\net5.0\ref\console_classnobj.dll
