@@ -1,0 +1,16 @@
+D:\VJVS\console_structthree\bin\Debug\net5.0\console_structthree.exe
+D:\VJVS\console_structthree\bin\Debug\net5.0\console_structthree.deps.json
+D:\VJVS\console_structthree\bin\Debug\net5.0\console_structthree.runtimeconfig.json
+D:\VJVS\console_structthree\bin\Debug\net5.0\console_structthree.runtimeconfig.dev.json
+D:\VJVS\console_structthree\bin\Debug\net5.0\console_structthree.dll
+D:\VJVS\console_structthree\bin\Debug\net5.0\console_structthree.pdb
+D:\VJVS\console_structthree\obj\Debug\net5.0\console_structthree.csproj.AssemblyReference.cache
+D:\VJVS\console_structthree\obj\Debug\net5.0\console_structthree.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_structthree\obj\Debug\net5.0\console_structthree.AssemblyInfoInputs.cache
+D:\VJVS\console_structthree\obj\Debug\net5.0\console_structthree.AssemblyInfo.cs
+D:\VJVS\console_structthree\obj\Debug\net5.0\console_structthree.csproj.CoreCompileInputs.cache
+D:\VJVS\console_structthree\obj\Debug\net5.0\console_structthree.dll
+D:\VJVS\console_structthree\obj\Debug\net5.0\refint\console_structthree.dll
+D:\VJVS\console_structthree\obj\Debug\net5.0\console_structthree.pdb
+D:\VJVS\console_structthree\obj\Debug\net5.0\console_structthree.genruntimeconfig.cache
+D:\VJVS\console_structthree\obj\Debug\net5.0\ref\console_structthree.dll
