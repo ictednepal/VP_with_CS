@@ -1,0 +1,16 @@
+D:\VJVS\console_propertiesaccessor\bin\Debug\net5.0\console_propertiesaccessor.exe
+D:\VJVS\console_propertiesaccessor\bin\Debug\net5.0\console_propertiesaccessor.deps.json
+D:\VJVS\console_propertiesaccessor\bin\Debug\net5.0\console_propertiesaccessor.runtimeconfig.json
+D:\VJVS\console_propertiesaccessor\bin\Debug\net5.0\console_propertiesaccessor.runtimeconfig.dev.json
+D:\VJVS\console_propertiesaccessor\bin\Debug\net5.0\console_propertiesaccessor.dll
+D:\VJVS\console_propertiesaccessor\bin\Debug\net5.0\console_propertiesaccessor.pdb
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\console_propertiesaccessor.csproj.AssemblyReference.cache
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\console_propertiesaccessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\console_propertiesaccessor.AssemblyInfoInputs.cache
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\console_propertiesaccessor.AssemblyInfo.cs
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\console_propertiesaccessor.csproj.CoreCompileInputs.cache
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\console_propertiesaccessor.dll
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\refint\console_propertiesaccessor.dll
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\console_propertiesaccessor.pdb
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\console_propertiesaccessor.genruntimeconfig.cache
+D:\VJVS\console_propertiesaccessor\obj\Debug\net5.0\ref\console_propertiesaccessor.dll
