@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VJVS\\console_structtwo\\console_structtwo.csproj",
+      "projectUniqueName": "D:\\VJVP\\console_structtwo\\console_structtwo.csproj",
       "projectName": "console_structtwo",
-      "projectPath": "D:\\VJVS\\console_structtwo\\console_structtwo.csproj",
+      "projectPath": "D:\\VJVP\\console_structtwo\\console_structtwo.csproj",
       "packagesPath": "C:\\Users\\Vijaya Malla\\.nuget\\packages\\",
-      "outputPath": "D:\\VJVS\\console_structtwo\\obj\\",
+      "outputPath": "D:\\VJVP\\console_structtwo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }
