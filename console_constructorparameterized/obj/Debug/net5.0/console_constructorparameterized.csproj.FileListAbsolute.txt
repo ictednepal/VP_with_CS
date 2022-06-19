@@ -1,0 +1,16 @@
+D:\VJVS\console_constructorparameterized\bin\Debug\net5.0\console_constructorparameterized.exe
+D:\VJVS\console_constructorparameterized\bin\Debug\net5.0\console_constructorparameterized.deps.json
+D:\VJVS\console_constructorparameterized\bin\Debug\net5.0\console_constructorparameterized.runtimeconfig.json
+D:\VJVS\console_constructorparameterized\bin\Debug\net5.0\console_constructorparameterized.runtimeconfig.dev.json
+D:\VJVS\console_constructorparameterized\bin\Debug\net5.0\console_constructorparameterized.dll
+D:\VJVS\console_constructorparameterized\bin\Debug\net5.0\console_constructorparameterized.pdb
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\console_constructorparameterized.csproj.AssemblyReference.cache
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\console_constructorparameterized.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\console_constructorparameterized.AssemblyInfoInputs.cache
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\console_constructorparameterized.AssemblyInfo.cs
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\console_constructorparameterized.csproj.CoreCompileInputs.cache
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\console_constructorparameterized.dll
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\refint\console_constructorparameterized.dll
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\console_constructorparameterized.pdb
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\console_constructorparameterized.genruntimeconfig.cache
+D:\VJVS\console_constructorparameterized\obj\Debug\net5.0\ref\console_constructorparameterized.dll

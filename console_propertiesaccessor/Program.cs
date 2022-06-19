@@ -51,7 +51,6 @@ namespace console_propertiesaccessor
             //let us increase age
             s.Age += 1;
             Console.WriteLine("Student Info: {0}", s);
-            Console.ReadKey();
         }
     }
 }

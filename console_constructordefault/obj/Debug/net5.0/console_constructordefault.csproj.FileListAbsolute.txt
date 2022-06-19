@@ -1,0 +1,16 @@
+D:\VJVS\console_constructordefault\bin\Debug\net5.0\console_constructordefault.exe
+D:\VJVS\console_constructordefault\bin\Debug\net5.0\console_constructordefault.deps.json
+D:\VJVS\console_constructordefault\bin\Debug\net5.0\console_constructordefault.runtimeconfig.json
+D:\VJVS\console_constructordefault\bin\Debug\net5.0\console_constructordefault.runtimeconfig.dev.json
+D:\VJVS\console_constructordefault\bin\Debug\net5.0\console_constructordefault.dll
+D:\VJVS\console_constructordefault\bin\Debug\net5.0\console_constructordefault.pdb
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\console_constructordefault.csproj.AssemblyReference.cache
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\console_constructordefault.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\console_constructordefault.AssemblyInfoInputs.cache
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\console_constructordefault.AssemblyInfo.cs
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\console_constructordefault.csproj.CoreCompileInputs.cache
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\console_constructordefault.dll
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\refint\console_constructordefault.dll
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\console_constructordefault.pdb
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\console_constructordefault.genruntimeconfig.cache
+D:\VJVS\console_constructordefault\obj\Debug\net5.0\ref\console_constructordefault.dll

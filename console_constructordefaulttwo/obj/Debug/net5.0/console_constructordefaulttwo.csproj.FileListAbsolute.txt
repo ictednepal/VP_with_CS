@@ -1,0 +1,16 @@
+D:\VJVS\console_constructordefaulttwo\bin\Debug\net5.0\console_constructordefaulttwo.exe
+D:\VJVS\console_constructordefaulttwo\bin\Debug\net5.0\console_constructordefaulttwo.deps.json
+D:\VJVS\console_constructordefaulttwo\bin\Debug\net5.0\console_constructordefaulttwo.runtimeconfig.json
+D:\VJVS\console_constructordefaulttwo\bin\Debug\net5.0\console_constructordefaulttwo.runtimeconfig.dev.json
+D:\VJVS\console_constructordefaulttwo\bin\Debug\net5.0\console_constructordefaulttwo.dll
+D:\VJVS\console_constructordefaulttwo\bin\Debug\net5.0\console_constructordefaulttwo.pdb
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\console_constructordefaulttwo.csproj.AssemblyReference.cache
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\console_constructordefaulttwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\console_constructordefaulttwo.AssemblyInfoInputs.cache
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\console_constructordefaulttwo.AssemblyInfo.cs
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\console_constructordefaulttwo.csproj.CoreCompileInputs.cache
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\console_constructordefaulttwo.dll
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\refint\console_constructordefaulttwo.dll
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\console_constructordefaulttwo.pdb
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\console_constructordefaulttwo.genruntimeconfig.cache
+D:\VJVS\console_constructordefaulttwo\obj\Debug\net5.0\ref\console_constructordefaulttwo.dll
