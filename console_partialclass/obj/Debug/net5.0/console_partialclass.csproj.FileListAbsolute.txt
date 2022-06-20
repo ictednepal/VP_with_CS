@@ -1,0 +1,16 @@
+D:\VJVP\console_partialclass\bin\Debug\net5.0\console_partialclass.exe
+D:\VJVP\console_partialclass\bin\Debug\net5.0\console_partialclass.deps.json
+D:\VJVP\console_partialclass\bin\Debug\net5.0\console_partialclass.runtimeconfig.json
+D:\VJVP\console_partialclass\bin\Debug\net5.0\console_partialclass.runtimeconfig.dev.json
+D:\VJVP\console_partialclass\bin\Debug\net5.0\console_partialclass.dll
+D:\VJVP\console_partialclass\bin\Debug\net5.0\console_partialclass.pdb
+D:\VJVP\console_partialclass\obj\Debug\net5.0\console_partialclass.csproj.AssemblyReference.cache
+D:\VJVP\console_partialclass\obj\Debug\net5.0\console_partialclass.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_partialclass\obj\Debug\net5.0\console_partialclass.AssemblyInfoInputs.cache
+D:\VJVP\console_partialclass\obj\Debug\net5.0\console_partialclass.AssemblyInfo.cs
+D:\VJVP\console_partialclass\obj\Debug\net5.0\console_partialclass.csproj.CoreCompileInputs.cache
+D:\VJVP\console_partialclass\obj\Debug\net5.0\console_partialclass.dll
+D:\VJVP\console_partialclass\obj\Debug\net5.0\refint\console_partialclass.dll
+D:\VJVP\console_partialclass\obj\Debug\net5.0\console_partialclass.pdb
+D:\VJVP\console_partialclass\obj\Debug\net5.0\console_partialclass.genruntimeconfig.cache
+D:\VJVP\console_partialclass\obj\Debug\net5.0\ref\console_partialclass.dll
