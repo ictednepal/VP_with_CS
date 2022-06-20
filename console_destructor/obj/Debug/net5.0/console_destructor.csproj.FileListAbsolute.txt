@@ -1,0 +1,16 @@
+D:\VJVP\console_destructor\bin\Debug\net5.0\console_destructor.exe
+D:\VJVP\console_destructor\bin\Debug\net5.0\console_destructor.deps.json
+D:\VJVP\console_destructor\bin\Debug\net5.0\console_destructor.runtimeconfig.json
+D:\VJVP\console_destructor\bin\Debug\net5.0\console_destructor.runtimeconfig.dev.json
+D:\VJVP\console_destructor\bin\Debug\net5.0\console_destructor.dll
+D:\VJVP\console_destructor\bin\Debug\net5.0\console_destructor.pdb
+D:\VJVP\console_destructor\obj\Debug\net5.0\console_destructor.csproj.AssemblyReference.cache
+D:\VJVP\console_destructor\obj\Debug\net5.0\console_destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_destructor\obj\Debug\net5.0\console_destructor.AssemblyInfoInputs.cache
+D:\VJVP\console_destructor\obj\Debug\net5.0\console_destructor.AssemblyInfo.cs
+D:\VJVP\console_destructor\obj\Debug\net5.0\console_destructor.csproj.CoreCompileInputs.cache
+D:\VJVP\console_destructor\obj\Debug\net5.0\console_destructor.dll
+D:\VJVP\console_destructor\obj\Debug\net5.0\refint\console_destructor.dll
+D:\VJVP\console_destructor\obj\Debug\net5.0\console_destructor.pdb
+D:\VJVP\console_destructor\obj\Debug\net5.0\console_destructor.genruntimeconfig.cache
+D:\VJVP\console_destructor\obj\Debug\net5.0\ref\console_destructor.dll
