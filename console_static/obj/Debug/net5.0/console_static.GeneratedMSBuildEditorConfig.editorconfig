@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = console_partialclass
-build_property.ProjectDir = d:\VJVP\console_partialclass\
+build_property.RootNamespace = console_static
+build_property.ProjectDir = D:\VJVP\console_static\
