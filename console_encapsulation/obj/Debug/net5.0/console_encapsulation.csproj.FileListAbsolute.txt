@@ -1,0 +1,16 @@
+D:\VJVP\console_encapsulation\bin\Debug\net5.0\console_encapsulation.exe
+D:\VJVP\console_encapsulation\bin\Debug\net5.0\console_encapsulation.deps.json
+D:\VJVP\console_encapsulation\bin\Debug\net5.0\console_encapsulation.runtimeconfig.json
+D:\VJVP\console_encapsulation\bin\Debug\net5.0\console_encapsulation.runtimeconfig.dev.json
+D:\VJVP\console_encapsulation\bin\Debug\net5.0\console_encapsulation.dll
+D:\VJVP\console_encapsulation\bin\Debug\net5.0\console_encapsulation.pdb
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\console_encapsulation.csproj.AssemblyReference.cache
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\console_encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\console_encapsulation.AssemblyInfoInputs.cache
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\console_encapsulation.AssemblyInfo.cs
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\console_encapsulation.csproj.CoreCompileInputs.cache
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\console_encapsulation.dll
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\refint\console_encapsulation.dll
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\console_encapsulation.pdb
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\console_encapsulation.genruntimeconfig.cache
+D:\VJVP\console_encapsulation\obj\Debug\net5.0\ref\console_encapsulation.dll
