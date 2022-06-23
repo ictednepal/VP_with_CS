@@ -1,0 +1,16 @@
+D:\VJVP\console_inheritancemultilevel\bin\Debug\net5.0\console_inheritancemultilevel.exe
+D:\VJVP\console_inheritancemultilevel\bin\Debug\net5.0\console_inheritancemultilevel.deps.json
+D:\VJVP\console_inheritancemultilevel\bin\Debug\net5.0\console_inheritancemultilevel.runtimeconfig.json
+D:\VJVP\console_inheritancemultilevel\bin\Debug\net5.0\console_inheritancemultilevel.runtimeconfig.dev.json
+D:\VJVP\console_inheritancemultilevel\bin\Debug\net5.0\console_inheritancemultilevel.dll
+D:\VJVP\console_inheritancemultilevel\bin\Debug\net5.0\console_inheritancemultilevel.pdb
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\console_inheritancemultilevel.csproj.AssemblyReference.cache
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\console_inheritancemultilevel.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\console_inheritancemultilevel.AssemblyInfoInputs.cache
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\console_inheritancemultilevel.AssemblyInfo.cs
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\console_inheritancemultilevel.csproj.CoreCompileInputs.cache
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\console_inheritancemultilevel.dll
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\refint\console_inheritancemultilevel.dll
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\console_inheritancemultilevel.pdb
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\console_inheritancemultilevel.genruntimeconfig.cache
+D:\VJVP\console_inheritancemultilevel\obj\Debug\net5.0\ref\console_inheritancemultilevel.dll
