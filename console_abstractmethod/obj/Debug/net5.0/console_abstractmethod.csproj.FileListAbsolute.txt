@@ -1,0 +1,16 @@
+D:\VJVP\console_abstractmethod\bin\Debug\net5.0\console_abstractmethod.exe
+D:\VJVP\console_abstractmethod\bin\Debug\net5.0\console_abstractmethod.deps.json
+D:\VJVP\console_abstractmethod\bin\Debug\net5.0\console_abstractmethod.runtimeconfig.json
+D:\VJVP\console_abstractmethod\bin\Debug\net5.0\console_abstractmethod.runtimeconfig.dev.json
+D:\VJVP\console_abstractmethod\bin\Debug\net5.0\console_abstractmethod.dll
+D:\VJVP\console_abstractmethod\bin\Debug\net5.0\console_abstractmethod.pdb
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\console_abstractmethod.csproj.AssemblyReference.cache
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\console_abstractmethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\console_abstractmethod.AssemblyInfoInputs.cache
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\console_abstractmethod.AssemblyInfo.cs
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\console_abstractmethod.csproj.CoreCompileInputs.cache
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\console_abstractmethod.dll
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\refint\console_abstractmethod.dll
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\console_abstractmethod.pdb
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\console_abstractmethod.genruntimeconfig.cache
+D:\VJVP\console_abstractmethod\obj\Debug\net5.0\ref\console_abstractmethod.dll

@@ -1,0 +1,16 @@
+D:\VJVP\console_abstractclassthree\bin\Debug\net5.0\console_abstractclassthree.exe
+D:\VJVP\console_abstractclassthree\bin\Debug\net5.0\console_abstractclassthree.deps.json
+D:\VJVP\console_abstractclassthree\bin\Debug\net5.0\console_abstractclassthree.runtimeconfig.json
+D:\VJVP\console_abstractclassthree\bin\Debug\net5.0\console_abstractclassthree.runtimeconfig.dev.json
+D:\VJVP\console_abstractclassthree\bin\Debug\net5.0\console_abstractclassthree.dll
+D:\VJVP\console_abstractclassthree\bin\Debug\net5.0\console_abstractclassthree.pdb
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\console_abstractclassthree.csproj.AssemblyReference.cache
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\console_abstractclassthree.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\console_abstractclassthree.AssemblyInfoInputs.cache
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\console_abstractclassthree.AssemblyInfo.cs
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\console_abstractclassthree.csproj.CoreCompileInputs.cache
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\console_abstractclassthree.dll
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\refint\console_abstractclassthree.dll
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\console_abstractclassthree.pdb
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\console_abstractclassthree.genruntimeconfig.cache
+D:\VJVP\console_abstractclassthree\obj\Debug\net5.0\ref\console_abstractclassthree.dll
