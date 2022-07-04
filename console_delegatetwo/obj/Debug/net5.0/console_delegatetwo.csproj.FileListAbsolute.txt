@@ -1,0 +1,16 @@
+D:\VJVP\console_delegatetwo\bin\Debug\net5.0\console_delegatetwo.exe
+D:\VJVP\console_delegatetwo\bin\Debug\net5.0\console_delegatetwo.deps.json
+D:\VJVP\console_delegatetwo\bin\Debug\net5.0\console_delegatetwo.runtimeconfig.json
+D:\VJVP\console_delegatetwo\bin\Debug\net5.0\console_delegatetwo.runtimeconfig.dev.json
+D:\VJVP\console_delegatetwo\bin\Debug\net5.0\console_delegatetwo.dll
+D:\VJVP\console_delegatetwo\bin\Debug\net5.0\console_delegatetwo.pdb
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\console_delegatetwo.csproj.AssemblyReference.cache
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\console_delegatetwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\console_delegatetwo.AssemblyInfoInputs.cache
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\console_delegatetwo.AssemblyInfo.cs
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\console_delegatetwo.csproj.CoreCompileInputs.cache
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\console_delegatetwo.dll
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\refint\console_delegatetwo.dll
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\console_delegatetwo.pdb
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\console_delegatetwo.genruntimeconfig.cache
+D:\VJVP\console_delegatetwo\obj\Debug\net5.0\ref\console_delegatetwo.dll

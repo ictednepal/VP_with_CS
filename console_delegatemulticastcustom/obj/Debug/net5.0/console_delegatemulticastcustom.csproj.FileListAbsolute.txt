@@ -1,0 +1,16 @@
+D:\VJVP\console_delegatemulticastcustom\bin\Debug\net5.0\console_delegatemulticastcustom.exe
+D:\VJVP\console_delegatemulticastcustom\bin\Debug\net5.0\console_delegatemulticastcustom.deps.json
+D:\VJVP\console_delegatemulticastcustom\bin\Debug\net5.0\console_delegatemulticastcustom.runtimeconfig.json
+D:\VJVP\console_delegatemulticastcustom\bin\Debug\net5.0\console_delegatemulticastcustom.runtimeconfig.dev.json
+D:\VJVP\console_delegatemulticastcustom\bin\Debug\net5.0\console_delegatemulticastcustom.dll
+D:\VJVP\console_delegatemulticastcustom\bin\Debug\net5.0\console_delegatemulticastcustom.pdb
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\console_delegatemulticastcustom.csproj.AssemblyReference.cache
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\console_delegatemulticastcustom.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\console_delegatemulticastcustom.AssemblyInfoInputs.cache
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\console_delegatemulticastcustom.AssemblyInfo.cs
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\console_delegatemulticastcustom.csproj.CoreCompileInputs.cache
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\console_delegatemulticastcustom.dll
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\refint\console_delegatemulticastcustom.dll
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\console_delegatemulticastcustom.pdb
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\console_delegatemulticastcustom.genruntimeconfig.cache
+D:\VJVP\console_delegatemulticastcustom\obj\Debug\net5.0\ref\console_delegatemulticastcustom.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "console_delegatefour/1.0.0": {
+        "runtime": {
+          "console_delegatefour.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "console_delegatefour/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

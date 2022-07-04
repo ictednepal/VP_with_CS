@@ -1,0 +1,16 @@
+D:\VJVP\console_delegatethree\bin\Debug\net5.0\console_delegatethree.exe
+D:\VJVP\console_delegatethree\bin\Debug\net5.0\console_delegatethree.deps.json
+D:\VJVP\console_delegatethree\bin\Debug\net5.0\console_delegatethree.runtimeconfig.json
+D:\VJVP\console_delegatethree\bin\Debug\net5.0\console_delegatethree.runtimeconfig.dev.json
+D:\VJVP\console_delegatethree\bin\Debug\net5.0\console_delegatethree.dll
+D:\VJVP\console_delegatethree\bin\Debug\net5.0\console_delegatethree.pdb
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\console_delegatethree.csproj.AssemblyReference.cache
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\console_delegatethree.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\console_delegatethree.AssemblyInfoInputs.cache
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\console_delegatethree.AssemblyInfo.cs
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\console_delegatethree.csproj.CoreCompileInputs.cache
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\console_delegatethree.dll
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\refint\console_delegatethree.dll
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\console_delegatethree.pdb
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\console_delegatethree.genruntimeconfig.cache
+D:\VJVP\console_delegatethree\obj\Debug\net5.0\ref\console_delegatethree.dll

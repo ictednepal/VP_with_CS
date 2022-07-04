@@ -1,0 +1,16 @@
+D:\VJVP\console_interfacetwo\bin\Debug\net5.0\console_interfacetwo.exe
+D:\VJVP\console_interfacetwo\bin\Debug\net5.0\console_interfacetwo.deps.json
+D:\VJVP\console_interfacetwo\bin\Debug\net5.0\console_interfacetwo.runtimeconfig.json
+D:\VJVP\console_interfacetwo\bin\Debug\net5.0\console_interfacetwo.runtimeconfig.dev.json
+D:\VJVP\console_interfacetwo\bin\Debug\net5.0\console_interfacetwo.dll
+D:\VJVP\console_interfacetwo\bin\Debug\net5.0\console_interfacetwo.pdb
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\console_interfacetwo.csproj.AssemblyReference.cache
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\console_interfacetwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\console_interfacetwo.AssemblyInfoInputs.cache
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\console_interfacetwo.AssemblyInfo.cs
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\console_interfacetwo.csproj.CoreCompileInputs.cache
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\console_interfacetwo.dll
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\refint\console_interfacetwo.dll
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\console_interfacetwo.pdb
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\console_interfacetwo.genruntimeconfig.cache
+D:\VJVP\console_interfacetwo\obj\Debug\net5.0\ref\console_interfacetwo.dll

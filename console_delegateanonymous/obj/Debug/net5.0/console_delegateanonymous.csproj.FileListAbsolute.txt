@@ -1,0 +1,16 @@
+D:\VJVP\console_delegateanonymous\bin\Debug\net5.0\console_delegateanonymous.exe
+D:\VJVP\console_delegateanonymous\bin\Debug\net5.0\console_delegateanonymous.deps.json
+D:\VJVP\console_delegateanonymous\bin\Debug\net5.0\console_delegateanonymous.runtimeconfig.json
+D:\VJVP\console_delegateanonymous\bin\Debug\net5.0\console_delegateanonymous.runtimeconfig.dev.json
+D:\VJVP\console_delegateanonymous\bin\Debug\net5.0\console_delegateanonymous.dll
+D:\VJVP\console_delegateanonymous\bin\Debug\net5.0\console_delegateanonymous.pdb
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\console_delegateanonymous.csproj.AssemblyReference.cache
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\console_delegateanonymous.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\console_delegateanonymous.AssemblyInfoInputs.cache
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\console_delegateanonymous.AssemblyInfo.cs
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\console_delegateanonymous.csproj.CoreCompileInputs.cache
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\console_delegateanonymous.dll
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\refint\console_delegateanonymous.dll
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\console_delegateanonymous.pdb
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\console_delegateanonymous.genruntimeconfig.cache
+D:\VJVP\console_delegateanonymous\obj\Debug\net5.0\ref\console_delegateanonymous.dll

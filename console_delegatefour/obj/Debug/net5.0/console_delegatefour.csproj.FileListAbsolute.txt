@@ -1,0 +1,16 @@
+D:\VJVP\console_delegatefour\bin\Debug\net5.0\console_delegatefour.exe
+D:\VJVP\console_delegatefour\bin\Debug\net5.0\console_delegatefour.deps.json
+D:\VJVP\console_delegatefour\bin\Debug\net5.0\console_delegatefour.runtimeconfig.json
+D:\VJVP\console_delegatefour\bin\Debug\net5.0\console_delegatefour.runtimeconfig.dev.json
+D:\VJVP\console_delegatefour\bin\Debug\net5.0\console_delegatefour.dll
+D:\VJVP\console_delegatefour\bin\Debug\net5.0\console_delegatefour.pdb
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\console_delegatefour.csproj.AssemblyReference.cache
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\console_delegatefour.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\console_delegatefour.AssemblyInfoInputs.cache
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\console_delegatefour.AssemblyInfo.cs
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\console_delegatefour.csproj.CoreCompileInputs.cache
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\console_delegatefour.dll
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\refint\console_delegatefour.dll
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\console_delegatefour.pdb
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\console_delegatefour.genruntimeconfig.cache
+D:\VJVP\console_delegatefour\obj\Debug\net5.0\ref\console_delegatefour.dll
