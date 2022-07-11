@@ -1,0 +1,16 @@
+D:\VJVP\console_dedegateanonymoustwo\bin\Debug\net5.0\console_dedegateanonymoustwo.exe
+D:\VJVP\console_dedegateanonymoustwo\bin\Debug\net5.0\console_dedegateanonymoustwo.deps.json
+D:\VJVP\console_dedegateanonymoustwo\bin\Debug\net5.0\console_dedegateanonymoustwo.runtimeconfig.json
+D:\VJVP\console_dedegateanonymoustwo\bin\Debug\net5.0\console_dedegateanonymoustwo.runtimeconfig.dev.json
+D:\VJVP\console_dedegateanonymoustwo\bin\Debug\net5.0\console_dedegateanonymoustwo.dll
+D:\VJVP\console_dedegateanonymoustwo\bin\Debug\net5.0\console_dedegateanonymoustwo.pdb
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\console_dedegateanonymoustwo.csproj.AssemblyReference.cache
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\console_dedegateanonymoustwo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\console_dedegateanonymoustwo.AssemblyInfoInputs.cache
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\console_dedegateanonymoustwo.AssemblyInfo.cs
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\console_dedegateanonymoustwo.csproj.CoreCompileInputs.cache
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\console_dedegateanonymoustwo.dll
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\refint\console_dedegateanonymoustwo.dll
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\console_dedegateanonymoustwo.pdb
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\console_dedegateanonymoustwo.genruntimeconfig.cache
+D:\VJVP\console_dedegateanonymoustwo\obj\Debug\net5.0\ref\console_dedegateanonymoustwo.dll

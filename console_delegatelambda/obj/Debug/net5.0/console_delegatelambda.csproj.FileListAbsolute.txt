@@ -1,0 +1,16 @@
+D:\VJVP\console_delegatelambda\bin\Debug\net5.0\console_delegatelambda.exe
+D:\VJVP\console_delegatelambda\bin\Debug\net5.0\console_delegatelambda.deps.json
+D:\VJVP\console_delegatelambda\bin\Debug\net5.0\console_delegatelambda.runtimeconfig.json
+D:\VJVP\console_delegatelambda\bin\Debug\net5.0\console_delegatelambda.runtimeconfig.dev.json
+D:\VJVP\console_delegatelambda\bin\Debug\net5.0\console_delegatelambda.dll
+D:\VJVP\console_delegatelambda\bin\Debug\net5.0\console_delegatelambda.pdb
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\console_delegatelambda.csproj.AssemblyReference.cache
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\console_delegatelambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\console_delegatelambda.AssemblyInfoInputs.cache
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\console_delegatelambda.AssemblyInfo.cs
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\console_delegatelambda.csproj.CoreCompileInputs.cache
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\console_delegatelambda.dll
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\refint\console_delegatelambda.dll
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\console_delegatelambda.pdb
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\console_delegatelambda.genruntimeconfig.cache
+D:\VJVP\console_delegatelambda\obj\Debug\net5.0\ref\console_delegatelambda.dll

@@ -1,0 +1,16 @@
+D:\VJVP\console_delegateevents\bin\Debug\net5.0\console_delegateevents.exe
+D:\VJVP\console_delegateevents\bin\Debug\net5.0\console_delegateevents.deps.json
+D:\VJVP\console_delegateevents\bin\Debug\net5.0\console_delegateevents.runtimeconfig.json
+D:\VJVP\console_delegateevents\bin\Debug\net5.0\console_delegateevents.runtimeconfig.dev.json
+D:\VJVP\console_delegateevents\bin\Debug\net5.0\console_delegateevents.dll
+D:\VJVP\console_delegateevents\bin\Debug\net5.0\console_delegateevents.pdb
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\console_delegateevents.csproj.AssemblyReference.cache
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\console_delegateevents.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\console_delegateevents.AssemblyInfoInputs.cache
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\console_delegateevents.AssemblyInfo.cs
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\console_delegateevents.csproj.CoreCompileInputs.cache
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\console_delegateevents.dll
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\refint\console_delegateevents.dll
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\console_delegateevents.pdb
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\console_delegateevents.genruntimeconfig.cache
+D:\VJVP\console_delegateevents\obj\Debug\net5.0\ref\console_delegateevents.dll
