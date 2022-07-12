@@ -1,0 +1,16 @@
+D:\VJVP\console_stringlength\bin\Debug\net5.0\console_stringlength.exe
+D:\VJVP\console_stringlength\bin\Debug\net5.0\console_stringlength.deps.json
+D:\VJVP\console_stringlength\bin\Debug\net5.0\console_stringlength.runtimeconfig.json
+D:\VJVP\console_stringlength\bin\Debug\net5.0\console_stringlength.runtimeconfig.dev.json
+D:\VJVP\console_stringlength\bin\Debug\net5.0\console_stringlength.dll
+D:\VJVP\console_stringlength\bin\Debug\net5.0\console_stringlength.pdb
+D:\VJVP\console_stringlength\obj\Debug\net5.0\console_stringlength.csproj.AssemblyReference.cache
+D:\VJVP\console_stringlength\obj\Debug\net5.0\console_stringlength.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_stringlength\obj\Debug\net5.0\console_stringlength.AssemblyInfoInputs.cache
+D:\VJVP\console_stringlength\obj\Debug\net5.0\console_stringlength.AssemblyInfo.cs
+D:\VJVP\console_stringlength\obj\Debug\net5.0\console_stringlength.csproj.CoreCompileInputs.cache
+D:\VJVP\console_stringlength\obj\Debug\net5.0\console_stringlength.dll
+D:\VJVP\console_stringlength\obj\Debug\net5.0\refint\console_stringlength.dll
+D:\VJVP\console_stringlength\obj\Debug\net5.0\console_stringlength.pdb
+D:\VJVP\console_stringlength\obj\Debug\net5.0\console_stringlength.genruntimeconfig.cache
+D:\VJVP\console_stringlength\obj\Debug\net5.0\ref\console_stringlength.dll
