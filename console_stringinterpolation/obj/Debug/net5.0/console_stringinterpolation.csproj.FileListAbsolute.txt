@@ -1,0 +1,16 @@
+D:\VJVP\console_stringinterpolation\bin\Debug\net5.0\console_stringinterpolation.exe
+D:\VJVP\console_stringinterpolation\bin\Debug\net5.0\console_stringinterpolation.deps.json
+D:\VJVP\console_stringinterpolation\bin\Debug\net5.0\console_stringinterpolation.runtimeconfig.json
+D:\VJVP\console_stringinterpolation\bin\Debug\net5.0\console_stringinterpolation.runtimeconfig.dev.json
+D:\VJVP\console_stringinterpolation\bin\Debug\net5.0\console_stringinterpolation.dll
+D:\VJVP\console_stringinterpolation\bin\Debug\net5.0\console_stringinterpolation.pdb
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\console_stringinterpolation.csproj.AssemblyReference.cache
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\console_stringinterpolation.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\console_stringinterpolation.AssemblyInfoInputs.cache
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\console_stringinterpolation.AssemblyInfo.cs
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\console_stringinterpolation.csproj.CoreCompileInputs.cache
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\console_stringinterpolation.dll
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\refint\console_stringinterpolation.dll
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\console_stringinterpolation.pdb
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\console_stringinterpolation.genruntimeconfig.cache
+D:\VJVP\console_stringinterpolation\obj\Debug\net5.0\ref\console_stringinterpolation.dll

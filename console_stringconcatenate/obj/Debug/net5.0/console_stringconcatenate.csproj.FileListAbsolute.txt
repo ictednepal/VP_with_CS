@@ -1,0 +1,16 @@
+D:\VJVP\console_stringconcatenate\bin\Debug\net5.0\console_stringconcatenate.exe
+D:\VJVP\console_stringconcatenate\bin\Debug\net5.0\console_stringconcatenate.deps.json
+D:\VJVP\console_stringconcatenate\bin\Debug\net5.0\console_stringconcatenate.runtimeconfig.json
+D:\VJVP\console_stringconcatenate\bin\Debug\net5.0\console_stringconcatenate.runtimeconfig.dev.json
+D:\VJVP\console_stringconcatenate\bin\Debug\net5.0\console_stringconcatenate.dll
+D:\VJVP\console_stringconcatenate\bin\Debug\net5.0\console_stringconcatenate.pdb
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\console_stringconcatenate.csproj.AssemblyReference.cache
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\console_stringconcatenate.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\console_stringconcatenate.AssemblyInfoInputs.cache
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\console_stringconcatenate.AssemblyInfo.cs
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\console_stringconcatenate.csproj.CoreCompileInputs.cache
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\console_stringconcatenate.dll
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\refint\console_stringconcatenate.dll
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\console_stringconcatenate.pdb
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\console_stringconcatenate.genruntimeconfig.cache
+D:\VJVP\console_stringconcatenate\obj\Debug\net5.0\ref\console_stringconcatenate.dll

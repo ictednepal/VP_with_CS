@@ -1,0 +1,16 @@
+D:\VJVP\console_stringcopy\bin\Debug\net5.0\console_stringcopy.exe
+D:\VJVP\console_stringcopy\bin\Debug\net5.0\console_stringcopy.deps.json
+D:\VJVP\console_stringcopy\bin\Debug\net5.0\console_stringcopy.runtimeconfig.json
+D:\VJVP\console_stringcopy\bin\Debug\net5.0\console_stringcopy.runtimeconfig.dev.json
+D:\VJVP\console_stringcopy\bin\Debug\net5.0\console_stringcopy.dll
+D:\VJVP\console_stringcopy\bin\Debug\net5.0\console_stringcopy.pdb
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\console_stringcopy.csproj.AssemblyReference.cache
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\console_stringcopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\console_stringcopy.AssemblyInfoInputs.cache
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\console_stringcopy.AssemblyInfo.cs
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\console_stringcopy.csproj.CoreCompileInputs.cache
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\console_stringcopy.dll
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\refint\console_stringcopy.dll
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\console_stringcopy.pdb
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\console_stringcopy.genruntimeconfig.cache
+D:\VJVP\console_stringcopy\obj\Debug\net5.0\ref\console_stringcopy.dll

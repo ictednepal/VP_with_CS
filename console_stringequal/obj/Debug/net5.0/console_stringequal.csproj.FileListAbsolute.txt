@@ -1,0 +1,16 @@
+D:\VJVP\console_stringequal\bin\Debug\net5.0\console_stringequal.exe
+D:\VJVP\console_stringequal\bin\Debug\net5.0\console_stringequal.deps.json
+D:\VJVP\console_stringequal\bin\Debug\net5.0\console_stringequal.runtimeconfig.json
+D:\VJVP\console_stringequal\bin\Debug\net5.0\console_stringequal.runtimeconfig.dev.json
+D:\VJVP\console_stringequal\bin\Debug\net5.0\console_stringequal.dll
+D:\VJVP\console_stringequal\bin\Debug\net5.0\console_stringequal.pdb
+D:\VJVP\console_stringequal\obj\Debug\net5.0\console_stringequal.csproj.AssemblyReference.cache
+D:\VJVP\console_stringequal\obj\Debug\net5.0\console_stringequal.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_stringequal\obj\Debug\net5.0\console_stringequal.AssemblyInfoInputs.cache
+D:\VJVP\console_stringequal\obj\Debug\net5.0\console_stringequal.AssemblyInfo.cs
+D:\VJVP\console_stringequal\obj\Debug\net5.0\console_stringequal.csproj.CoreCompileInputs.cache
+D:\VJVP\console_stringequal\obj\Debug\net5.0\console_stringequal.dll
+D:\VJVP\console_stringequal\obj\Debug\net5.0\refint\console_stringequal.dll
+D:\VJVP\console_stringequal\obj\Debug\net5.0\console_stringequal.pdb
+D:\VJVP\console_stringequal\obj\Debug\net5.0\console_stringequal.genruntimeconfig.cache
+D:\VJVP\console_stringequal\obj\Debug\net5.0\ref\console_stringequal.dll
