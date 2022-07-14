@@ -1,0 +1,16 @@
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\console_stringbuilder.csproj.AssemblyReference.cache
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\console_stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\console_stringbuilder.AssemblyInfoInputs.cache
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\console_stringbuilder.AssemblyInfo.cs
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\console_stringbuilder.csproj.CoreCompileInputs.cache
+D:\VJVP\console_stringbuilder\bin\Debug\net5.0\console_stringbuilder.exe
+D:\VJVP\console_stringbuilder\bin\Debug\net5.0\console_stringbuilder.deps.json
+D:\VJVP\console_stringbuilder\bin\Debug\net5.0\console_stringbuilder.runtimeconfig.json
+D:\VJVP\console_stringbuilder\bin\Debug\net5.0\console_stringbuilder.runtimeconfig.dev.json
+D:\VJVP\console_stringbuilder\bin\Debug\net5.0\console_stringbuilder.dll
+D:\VJVP\console_stringbuilder\bin\Debug\net5.0\console_stringbuilder.pdb
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\console_stringbuilder.dll
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\refint\console_stringbuilder.dll
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\console_stringbuilder.pdb
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\console_stringbuilder.genruntimeconfig.cache
+D:\VJVP\console_stringbuilder\obj\Debug\net5.0\ref\console_stringbuilder.dll
