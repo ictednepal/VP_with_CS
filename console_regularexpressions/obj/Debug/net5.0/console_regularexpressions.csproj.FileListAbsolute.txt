@@ -1,0 +1,16 @@
+D:\VJVP\console_regularexpressions\bin\Debug\net5.0\console_regularexpressions.exe
+D:\VJVP\console_regularexpressions\bin\Debug\net5.0\console_regularexpressions.deps.json
+D:\VJVP\console_regularexpressions\bin\Debug\net5.0\console_regularexpressions.runtimeconfig.json
+D:\VJVP\console_regularexpressions\bin\Debug\net5.0\console_regularexpressions.runtimeconfig.dev.json
+D:\VJVP\console_regularexpressions\bin\Debug\net5.0\console_regularexpressions.dll
+D:\VJVP\console_regularexpressions\bin\Debug\net5.0\console_regularexpressions.pdb
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\console_regularexpressions.csproj.AssemblyReference.cache
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\console_regularexpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\console_regularexpressions.AssemblyInfoInputs.cache
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\console_regularexpressions.AssemblyInfo.cs
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\console_regularexpressions.csproj.CoreCompileInputs.cache
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\console_regularexpressions.dll
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\refint\console_regularexpressions.dll
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\console_regularexpressions.pdb
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\console_regularexpressions.genruntimeconfig.cache
+D:\VJVP\console_regularexpressions\obj\Debug\net5.0\ref\console_regularexpressions.dll
