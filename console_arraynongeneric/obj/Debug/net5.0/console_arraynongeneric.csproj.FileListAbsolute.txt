@@ -1,0 +1,16 @@
+D:\VJVP\console_arraynongeneric\bin\Debug\net5.0\console_arraynongeneric.exe
+D:\VJVP\console_arraynongeneric\bin\Debug\net5.0\console_arraynongeneric.deps.json
+D:\VJVP\console_arraynongeneric\bin\Debug\net5.0\console_arraynongeneric.runtimeconfig.json
+D:\VJVP\console_arraynongeneric\bin\Debug\net5.0\console_arraynongeneric.runtimeconfig.dev.json
+D:\VJVP\console_arraynongeneric\bin\Debug\net5.0\console_arraynongeneric.dll
+D:\VJVP\console_arraynongeneric\bin\Debug\net5.0\console_arraynongeneric.pdb
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\console_arraynongeneric.csproj.AssemblyReference.cache
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\console_arraynongeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\console_arraynongeneric.AssemblyInfoInputs.cache
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\console_arraynongeneric.AssemblyInfo.cs
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\console_arraynongeneric.csproj.CoreCompileInputs.cache
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\console_arraynongeneric.dll
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\refint\console_arraynongeneric.dll
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\console_arraynongeneric.pdb
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\console_arraynongeneric.genruntimeconfig.cache
+D:\VJVP\console_arraynongeneric\obj\Debug\net5.0\ref\console_arraynongeneric.dll

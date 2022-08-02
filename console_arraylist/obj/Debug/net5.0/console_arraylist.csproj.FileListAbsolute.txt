@@ -1,0 +1,16 @@
+D:\VJVP\console_arraylist\bin\Debug\net5.0\console_arraylist.exe
+D:\VJVP\console_arraylist\bin\Debug\net5.0\console_arraylist.deps.json
+D:\VJVP\console_arraylist\bin\Debug\net5.0\console_arraylist.runtimeconfig.json
+D:\VJVP\console_arraylist\bin\Debug\net5.0\console_arraylist.runtimeconfig.dev.json
+D:\VJVP\console_arraylist\bin\Debug\net5.0\console_arraylist.dll
+D:\VJVP\console_arraylist\bin\Debug\net5.0\console_arraylist.pdb
+D:\VJVP\console_arraylist\obj\Debug\net5.0\console_arraylist.csproj.AssemblyReference.cache
+D:\VJVP\console_arraylist\obj\Debug\net5.0\console_arraylist.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_arraylist\obj\Debug\net5.0\console_arraylist.AssemblyInfoInputs.cache
+D:\VJVP\console_arraylist\obj\Debug\net5.0\console_arraylist.AssemblyInfo.cs
+D:\VJVP\console_arraylist\obj\Debug\net5.0\console_arraylist.csproj.CoreCompileInputs.cache
+D:\VJVP\console_arraylist\obj\Debug\net5.0\console_arraylist.dll
+D:\VJVP\console_arraylist\obj\Debug\net5.0\refint\console_arraylist.dll
+D:\VJVP\console_arraylist\obj\Debug\net5.0\console_arraylist.pdb
+D:\VJVP\console_arraylist\obj\Debug\net5.0\console_arraylist.genruntimeconfig.cache
+D:\VJVP\console_arraylist\obj\Debug\net5.0\ref\console_arraylist.dll

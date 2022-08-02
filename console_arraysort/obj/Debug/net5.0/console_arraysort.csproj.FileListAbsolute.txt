@@ -1,0 +1,16 @@
+D:\VJVP\console_arraysort\bin\Debug\net5.0\console_arraysort.exe
+D:\VJVP\console_arraysort\bin\Debug\net5.0\console_arraysort.deps.json
+D:\VJVP\console_arraysort\bin\Debug\net5.0\console_arraysort.runtimeconfig.json
+D:\VJVP\console_arraysort\bin\Debug\net5.0\console_arraysort.runtimeconfig.dev.json
+D:\VJVP\console_arraysort\bin\Debug\net5.0\console_arraysort.dll
+D:\VJVP\console_arraysort\bin\Debug\net5.0\console_arraysort.pdb
+D:\VJVP\console_arraysort\obj\Debug\net5.0\console_arraysort.csproj.AssemblyReference.cache
+D:\VJVP\console_arraysort\obj\Debug\net5.0\console_arraysort.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_arraysort\obj\Debug\net5.0\console_arraysort.AssemblyInfoInputs.cache
+D:\VJVP\console_arraysort\obj\Debug\net5.0\console_arraysort.AssemblyInfo.cs
+D:\VJVP\console_arraysort\obj\Debug\net5.0\console_arraysort.csproj.CoreCompileInputs.cache
+D:\VJVP\console_arraysort\obj\Debug\net5.0\console_arraysort.dll
+D:\VJVP\console_arraysort\obj\Debug\net5.0\refint\console_arraysort.dll
+D:\VJVP\console_arraysort\obj\Debug\net5.0\console_arraysort.pdb
+D:\VJVP\console_arraysort\obj\Debug\net5.0\console_arraysort.genruntimeconfig.cache
+D:\VJVP\console_arraysort\obj\Debug\net5.0\ref\console_arraysort.dll

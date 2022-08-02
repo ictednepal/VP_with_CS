@@ -6,9 +6,9 @@ namespace console_stringcopy
     {
         static void Main(string[] args)
         {
-            string clzname = "Sanothimi";
-            string name = string.Copy(clzname);
-            Console.WriteLine(name);
+            // string clzname = "Sanothimi";
+            // string name = string.Copy(clzname);
+            // Console.WriteLine(name);
         }
     }
 }
