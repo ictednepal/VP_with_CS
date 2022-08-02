@@ -1,0 +1,16 @@
+D:\VJVP\console_dictionary\bin\Debug\net5.0\console_dictionary.exe
+D:\VJVP\console_dictionary\bin\Debug\net5.0\console_dictionary.deps.json
+D:\VJVP\console_dictionary\bin\Debug\net5.0\console_dictionary.runtimeconfig.json
+D:\VJVP\console_dictionary\bin\Debug\net5.0\console_dictionary.runtimeconfig.dev.json
+D:\VJVP\console_dictionary\bin\Debug\net5.0\console_dictionary.dll
+D:\VJVP\console_dictionary\bin\Debug\net5.0\console_dictionary.pdb
+D:\VJVP\console_dictionary\obj\Debug\net5.0\console_dictionary.csproj.AssemblyReference.cache
+D:\VJVP\console_dictionary\obj\Debug\net5.0\console_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_dictionary\obj\Debug\net5.0\console_dictionary.AssemblyInfoInputs.cache
+D:\VJVP\console_dictionary\obj\Debug\net5.0\console_dictionary.AssemblyInfo.cs
+D:\VJVP\console_dictionary\obj\Debug\net5.0\console_dictionary.csproj.CoreCompileInputs.cache
+D:\VJVP\console_dictionary\obj\Debug\net5.0\console_dictionary.dll
+D:\VJVP\console_dictionary\obj\Debug\net5.0\refint\console_dictionary.dll
+D:\VJVP\console_dictionary\obj\Debug\net5.0\console_dictionary.pdb
+D:\VJVP\console_dictionary\obj\Debug\net5.0\console_dictionary.genruntimeconfig.cache
+D:\VJVP\console_dictionary\obj\Debug\net5.0\ref\console_dictionary.dll

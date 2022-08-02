@@ -1,0 +1,16 @@
+D:\VJVP\console_stackgeneric\bin\Debug\net5.0\console_stackgeneric.exe
+D:\VJVP\console_stackgeneric\bin\Debug\net5.0\console_stackgeneric.deps.json
+D:\VJVP\console_stackgeneric\bin\Debug\net5.0\console_stackgeneric.runtimeconfig.json
+D:\VJVP\console_stackgeneric\bin\Debug\net5.0\console_stackgeneric.runtimeconfig.dev.json
+D:\VJVP\console_stackgeneric\bin\Debug\net5.0\console_stackgeneric.dll
+D:\VJVP\console_stackgeneric\bin\Debug\net5.0\console_stackgeneric.pdb
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\console_stackgeneric.csproj.AssemblyReference.cache
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\console_stackgeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\console_stackgeneric.AssemblyInfoInputs.cache
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\console_stackgeneric.AssemblyInfo.cs
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\console_stackgeneric.csproj.CoreCompileInputs.cache
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\console_stackgeneric.dll
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\refint\console_stackgeneric.dll
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\console_stackgeneric.pdb
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\console_stackgeneric.genruntimeconfig.cache
+D:\VJVP\console_stackgeneric\obj\Debug\net5.0\ref\console_stackgeneric.dll
